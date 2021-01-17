@@ -2,6 +2,7 @@ This project have been developed to manage student details.This project has been
 
  
 Requirements
+
 1.java jdk 1.8 or above
 2.connector/j
 3.xampp for creating localhost server for mySQL databaase
@@ -9,6 +10,7 @@ Requirements
 
 
 Guidelines
+
 1.Make sure to start Apache and MySQL from xampp control panel before running the application.
 2.The database name is 'elite' and table 'record'.
 
