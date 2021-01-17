@@ -5,7 +5,7 @@ Requirements:
 
 1.java jdk 1.8 or above,
 2.connector/j,
-3.xampp for creating localhost server for mySQL databaase,
+3.XAMPP for creating localhost server for MySQL database,
 4.JDatechooser jar,
 
 
