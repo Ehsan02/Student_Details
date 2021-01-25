@@ -5,16 +5,16 @@ This project has been developed to manage student details.This project has been 
  
 # Requirements:
 
-1.java jdk 1.8 or above,\
-2.connector/j,\
-3.XAMPP for creating localhost server for MySQL database,\
-4.JDatechooser jar.
+1. Java jdk 1.8 or above,
+2. Connector/j,
+3. XAMPP for creating localhost server for MySQL database,
+4. JDatechooser jar.
 
 
 # Guidelines:
 
-1.Make sure to start Apache and MySQL from xampp control panel before running the application,\
-2.The database name is 'elite' and table 'record'.
+1. Make sure to start Apache and MySQL from xampp control panel before running the application,
+2. The database name is 'elite' and table 'record'.
 
 
 
