@@ -18,4 +18,5 @@ This project has been developed to manage student details.This project has been 
 
 
 
-It has been developed only for practice purpose only.
+
+  It has been developed only for practice purpose only.
